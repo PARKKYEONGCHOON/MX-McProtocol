@@ -1,0 +1,20 @@
+[ERROR] 21-05-10 10:47:07.572 : [ERROR]  : [Fail] - PLC Server Ping TEST
+[SYSTEM] 21-05-10 10:47:07.582 : [SYSTEM]  : [OK] McProtocol==>InitIO
+[ERROR] 21-05-10 10:48:46.609 : [ERROR]  : [Fail] - PLC Server Ping TEST
+[SYSTEM] 21-05-10 10:48:46.616 : [SYSTEM]  : [OK] McProtocol==>InitIO
+[ERROR] 21-05-10 10:49:03.695 : [ERROR]  : [FAILED] FormPlcConfig==>btnWrite_Click   Ex ==> 입력 문자열의 형식이 잘못되었습니다.
+[ERROR] 21-05-10 10:49:04.511 : [ERROR]  : [FAILED] FormPlcConfig==>btnRead_Click   Ex ==> 입력 문자열의 형식이 잘못되었습니다.
+[SYSTEM] 21-05-10 10:49:05.552 : [SYSTEM]  : [OK] FormPlcConfig==>btnApply_Click
+[SYSTEM] 21-05-10 10:49:05.872 : [SYSTEM]  : [OK] FormPlcConfig==>btnOK_Click
+[ERROR] 21-05-10 10:58:51.037 : [ERROR]  : [Fail] - PLC Server Ping TEST
+[SYSTEM] 21-05-10 10:58:51.046 : [SYSTEM]  : [OK] McProtocol==>InitIO
+[ERROR] 21-05-10 11:05:37.750 : [ERROR]  : [Fail] - PLC Server Ping TEST
+[SYSTEM] 21-05-10 11:05:37.760 : [SYSTEM]  : [OK] McProtocol==>InitIO
+[SYSTEM] 21-05-10 11:05:55.283 : [SYSTEM]  : [OK] FormPlcConfig==>btnCancel_Click
+[ERROR] 21-05-10 11:23:21.175 : [ERROR]  : [Fail] - PLC Server Ping TEST
+[SYSTEM] 21-05-10 11:23:21.183 : [SYSTEM]  : [OK] McProtocol==>InitIO
+[SYSTEM] 21-05-10 11:23:46.863 : [SYSTEM]  : [OK] FormPlcConfig==>btnApply_Click
+[SYSTEM] 21-05-10 11:23:54.320 : [SYSTEM]  : [OK] FormPlcConfig==>btnOK_Click
+[ERROR] 21-05-10 11:23:58.262 : [ERROR]  : [Fail] - PLC Server Ping TEST
+[SYSTEM] 21-05-10 11:23:58.269 : [SYSTEM]  : [OK] McProtocol==>InitIO
+[SYSTEM] 21-05-10 11:26:11.055 : [SYSTEM]  : [OK] FormPlcConfig==>btnCancel_Click

@@ -1,0 +1,24 @@
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csprojAssemblyReference.cache
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IntelligentFactory.FormPlcConfig.resources
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.Properties.Resources.resources
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csproj.GenerateResource.cache
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csproj.CoreCompileInputs.cache
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\bin\Debug\IMcprotocol.exe.config
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\bin\Debug\IMcprotocol.exe
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\bin\Debug\IMcprotocol.pdb
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\bin\Debug\Vila.Core.dll
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csproj.CopyComplete
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.exe
+C:\[0.Project]\1. PRONT\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.pdb
+D:\1.SW\IMcprotocol\IMcprotocol\bin\Debug\IMcprotocol.exe.config
+D:\1.SW\IMcprotocol\IMcprotocol\bin\Debug\IMcprotocol.exe
+D:\1.SW\IMcprotocol\IMcprotocol\bin\Debug\IMcprotocol.pdb
+D:\1.SW\IMcprotocol\IMcprotocol\bin\Debug\Vila.Core.dll
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csprojAssemblyReference.cache
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IntelligentFactory.FormPlcConfig.resources
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.Properties.Resources.resources
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csproj.GenerateResource.cache
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csproj.CoreCompileInputs.cache
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.csproj.CopyComplete
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.exe
+D:\1.SW\IMcprotocol\IMcprotocol\obj\Debug\IMcprotocol.pdb
